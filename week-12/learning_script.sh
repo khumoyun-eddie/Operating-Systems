@@ -1,5 +1,7 @@
 %%writefile learning_script.sh
 #!/bin/bash
+# Author: Prof. Mehdi Pirahandeh, ISE Department
+# Written by: Khumoyun Rakhmoberdiev, 12194949
 # Welcome message
 echo "Welcome to the Command Line Learning Script!"
 sleep 2

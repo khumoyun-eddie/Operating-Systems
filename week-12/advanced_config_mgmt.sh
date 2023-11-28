@@ -1,4 +1,6 @@
 #!/bin/bash
+# Author: Prof. Mehdi Pirahandeh, ISE Department
+# Written by: Khumoyun Rakhmoberdiev, 12194949
 # Function to check if a command was successful
 check_success() {
     if [ $? -ne 0 ]; then
